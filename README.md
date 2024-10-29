@@ -19,3 +19,7 @@ produces QuantConnect Python code for algorithmic trading based on the extracted
 models for summarization and code generation, and presents the results in a graphical user interface (GUI) built with Tkinter.
 Refer to https://medium.com/ai-advances/from-finance-papers-to-trading-algorithms-an-automated-approach-ccd2180ee306?sk=c1e67131cd822bccc1acab1b53ae5331
 
+## Project latest news
+
+29 Oct 24 : Using Crossref_search snippet baseline, adapting it to ArXiv search tool and making it agentic for enhanced knowledge extraction
+
