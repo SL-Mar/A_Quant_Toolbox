@@ -1,6 +1,7 @@
-# Quantitative Analysis Tools
+# Alpha_Researcher
 
-A library of Python tools designed for quantitative analysis in finance. This repository contains snippets for performing various tasks, such as searching for academic articles and analyzing stock market data.
+The project is aiming at automatizing alpha research by adopting an agentic workflows for academic research summarizing and historical financials data.
+For now, this repo only contains snippets for performing various tasks, such as searching for academic articles and analyzing stock market data.
 
 ## Features
 
