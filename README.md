@@ -1,7 +1,6 @@
-# Alpha_Researcher
+# A Quant Toolbox
 
-The project is aiming at automatizing alpha research by adopting an agentic workflows for academic research summarizing and historical financials data.
-For now, this repo only contains snippets for performing various tasks, such as searching for academic articles and analyzing stock market data.
+This repo contains snippets for performing various tasks, such as searching for academic articles and analyzing stock market data.
 
 ## Features
 
